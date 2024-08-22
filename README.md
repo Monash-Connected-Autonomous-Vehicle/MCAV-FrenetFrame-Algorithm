@@ -91,3 +91,6 @@ path = Planner.plan(csp, # Reference Path
 - [x] Basic Obsticle Avoidance 
 - [ ] Active Obsticle Avoidance
 - [ ] Understanding of Lanes
+
+## Liscence 
+MIT
