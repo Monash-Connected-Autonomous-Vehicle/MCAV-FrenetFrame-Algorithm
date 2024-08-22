@@ -67,6 +67,7 @@ path = Planner.plan(csp, # Reference Path
 
 ## Planner Demo
 ### 1. Emergency Stopping
+
 <div align="center">
     <video width="600" controls>
     <source src="assets/demo1.mp4" type="video/mp4">
@@ -75,13 +76,16 @@ path = Planner.plan(csp, # Reference Path
 </div>
 
 ### 2. Overtaking Stationary Obsticle
+
 <div align="center">
     <video width="600" controls>
     <source src="assets/demo2.mp4" type="video/mp4">
     Your browser does not support the video tag.
     </video>
 </div>
+
 ### 3. Following and Overtaking Slow Obsticle
+
 <div align="center">
     <video width="600" controls>
     <source src="assets/demo3.mp4" type="video/mp4">
