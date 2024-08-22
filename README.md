@@ -94,3 +94,7 @@ path = Planner.plan(csp, # Reference Path
 
 ## Liscence 
 MIT
+
+## Citation
+1. Sakai, A., Ingram, D., Dinius, J., Chawla, K., Raffin, A. and Paques, A. (2018). PythonRobotics: a Python code collection of robotics algorithms. [online] arXiv.org. Available at: https://arxiv.org/abs/1808.10703.
+2. University of Michigan (2017). Simulation and Testing Archives - Mcity. [online] Mcity. Available at: https://mcity.umich.edu/tag/simulation-and-testing/ [Accessed 22 Aug. 2024].
