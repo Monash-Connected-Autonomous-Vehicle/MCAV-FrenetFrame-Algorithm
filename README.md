@@ -9,7 +9,7 @@ This repository contains the **MCAV implementation of the Frenet Frame Local Pla
   <tr>
     <td>
       <ul>
-        <li>Repository builds on top of the Python robotics implementation of Frenet Framem, by adding additional features such as: <b>Lead Vehicle Following</b>b>, <b>Vehicle Stopping</b>b> and <b>Vehicle Overtaking</b>b>. </li>
+        <li>Repository builds on top of the Python robotics implementation of Frenet Framem, by adding additional features such as: <b>Lead Vehicle Following</b>, <b>Vehicle Stopping</b> and <b>Vehicle Overtaking</b>. </li>
         <li><strong>Template Code:</strong> <a href="https://github.com/AtsushiSakai/PythonRobotics">Python Robotics by Atsushi Sakai</a></li>
         <li><strong>Map:</strong> <a href="https://github.com/michigan-traffic-lab/Mcity-AV-Challenge">Mcity AV Challenge</a></li>
         <li><strong>Main Contributor:</strong> MCAV ITS Software Team 2024 
