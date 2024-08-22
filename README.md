@@ -66,27 +66,23 @@ path = Planner.plan(csp, # Reference Path
 ```
 
 ## Planner Demo
+
 ### 1. Emergency Stopping
+
 <div align="center">
-    <video width="600" controls>
-    <source src="assets/demo1.mp4" type="video/mp4">
-    Your browser does not support the video tag.
-    </video>
+    <img src="assets/demo1.gif" width="600" alt="Emergency Stopping">
 </div>
 
-### 2. Overtaking Stationary Obsticle
+### 2. Overtaking Stationary Obstacle
+
 <div align="center">
-    <video width="600" controls>
-    <source src="assets/demo2.mp4" type="video/mp4">
-    Your browser does not support the video tag.
-    </video>
+    <img src="assets/demo2.gif" width="600" alt="Overtaking Stationary Obstacle">
 </div>
-### 3. Following and Overtaking Slow Obsticle
+
+### 3. Following and Overtaking Slow Obstacle
+
 <div align="center">
-    <video width="600" controls>
-    <source src="assets/demo3.mp4" type="video/mp4">
-    Your browser does not support the video tag.
-    </video>
+    <img src="assets/demo3.gif" width="600" alt="Following and Overtaking Slow Obstacle">
 </div>
 
 ## Project Status
