@@ -14,7 +14,7 @@ This repository contains the **MCAV implementation of the Frenet Frame Local Pla
         <li><strong>Map:</strong> <a href="https://github.com/michigan-traffic-lab/Mcity-AV-Challenge">Mcity AV Challenge</a></li>
         <li><strong>Main Contributor:</strong> MCAV ITS Software Team 2024 
           (<a href="https://github.com/neyuh145">@Huy Nguyen</a>, Tom Playsted, Daniel Cornelius, 
-          <a href="https://github.com/ishaanchowdhary">@Ishaan, </a>)
+          <a href="https://github.com/ishaanchowdhary">@Ishaan, </a>
           <a href="https://github.com/treeizard">@Yide Tao</a>) and others</li>
       </ul>
     </td>
